@@ -1,0 +1,101 @@
+
+.card{
+    width: 80%;
+    height: 50vw;
+    display: flex;
+    margin: 10px auto;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(21, 255, 255);
+    border-radius: 20px;
+    box-shadow: 0 4px 25px -9px black;
+
+}
+
+.card>a{
+    display: flex;
+    justify-content: center;
+}
+.card>a>img{
+    width: 80%;
+    border-radius:10px ;
+    box-shadow: 0 4px 25px -2px black;
+}
+.card>a>img:hover{
+    width: 70%;
+}
+.card>h2{
+    font-size: 4vw;
+    padding: 4%;
+   
+}
+
+@media screen and (min-width:500px) {
+    
+    .card>a>img{
+        margin: 9px 0;
+        width: 81%;
+        height: 27vw;
+        object-fit: cover;    
+    } 
+        
+}
+@media screen and (min-width:750px) {
+    .card{
+        height: 45vw;
+    }
+    .card:hover{
+        width: 85%;
+        height: 48vw;
+    }
+    .card>h2{
+        font-size: 2.8vw;
+        padding: 4%;
+    }
+    .card>a>img{
+        margin: 9px 0;
+        width: 81%;
+        height: 30vw;
+        object-fit:cover;    
+    } 
+}
+@media screen and (min-width:1000px) {
+    .card{
+        height: 35vw;
+    }
+    .card:hover{
+        width: 85%;
+        height: 38vw;
+    }
+    .card>h2{
+        font-size: 2.3vw;
+        padding: 4%;
+    }
+    .card>a>img{
+        margin: 9px 0;
+        width: 81%;
+        height: 20vw;
+        object-fit:cover;    
+    } 
+}
+
+@media screen and (min-width:1250px) {
+    .card{
+        height: 25vw;
+    }
+    .card:hover{
+        width: 85%;
+        height: 32vw;
+    }
+    .card>h2{
+        font-size: 2vw;
+        padding: 4%;
+    }
+    .card>a>img{
+        margin: 9px 0;
+        width: 81%;
+        height: 15vw;
+        object-fit:cover;    
+    } 
+}
