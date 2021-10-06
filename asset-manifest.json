@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Landing-retos/static/css/main.1d8ae45a.chunk.css",
+    "main.css": "/Landing-retos/static/css/main.4dc2bfba.chunk.css",
     "main.js": "/Landing-retos/static/js/main.7b59c986.chunk.js",
     "main.js.map": "/Landing-retos/static/js/main.7b59c986.chunk.js.map",
     "runtime-main.js": "/Landing-retos/static/js/runtime-main.b2e97de5.js",
@@ -8,15 +8,14 @@
     "static/js/2.860fdaf4.chunk.js": "/Landing-retos/static/js/2.860fdaf4.chunk.js",
     "static/js/2.860fdaf4.chunk.js.map": "/Landing-retos/static/js/2.860fdaf4.chunk.js.map",
     "index.html": "/Landing-retos/index.html",
-    "static/css/main.1d8ae45a.chunk.css.map": "/Landing-retos/static/css/main.1d8ae45a.chunk.css.map",
+    "static/css/main.4dc2bfba.chunk.css.map": "/Landing-retos/static/css/main.4dc2bfba.chunk.css.map",
     "static/js/2.860fdaf4.chunk.js.LICENSE.txt": "/Landing-retos/static/js/2.860fdaf4.chunk.js.LICENSE.txt",
-    "static/media/logo.eb44789f.png": "/Landing-retos/static/media/logo.eb44789f.png",
-    "static/media/Cards.css": "/Landing-retos/static/media/piqsels.com-id-ffjfb.4ec8b695.jpg"
+    "static/media/logo.eb44789f.png": "/Landing-retos/static/media/logo.eb44789f.png"
   },
   "entrypoints": [
     "static/js/runtime-main.b2e97de5.js",
     "static/js/2.860fdaf4.chunk.js",
-    "static/css/main.1d8ae45a.chunk.css",
+    "static/css/main.4dc2bfba.chunk.css",
     "static/js/main.7b59c986.chunk.js"
   ]
 }
