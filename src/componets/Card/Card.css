@@ -23,7 +23,7 @@
     box-shadow: 0 4px 25px -2px black;
 }
 .card>a>img:hover{
-    width: 70%;
+    width: 83%;
 }
 .card>h2{
     font-size: 4vw;
@@ -45,9 +45,8 @@
     .card{
         height: 45vw;
     }
-    .card:hover{
-        width: 85%;
-        height: 48vw;
+    .card>a>img:hover{
+        width: 83%;
     }
     .card>h2{
         font-size: 2.8vw;
@@ -64,9 +63,8 @@
     .card{
         height: 35vw;
     }
-    .card:hover{
-        width: 85%;
-        height: 38vw;
+    .card>a>img:hover{
+        width: 83%;
     }
     .card>h2{
         font-size: 2.3vw;
@@ -84,9 +82,8 @@
     .card{
         height: 25vw;
     }
-    .card:hover{
-        width: 85%;
-        height: 32vw;
+    .card>a>img:hover{
+        width: 83%;
     }
     .card>h2{
         font-size: 2vw;
