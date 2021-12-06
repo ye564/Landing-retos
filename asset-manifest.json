@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Landing-retos/static/css/main.ee9e2d7c.chunk.css",
-    "main.js": "/Landing-retos/static/js/main.7b59c986.chunk.js",
-    "main.js.map": "/Landing-retos/static/js/main.7b59c986.chunk.js.map",
+    "main.css": "/Landing-retos/static/css/main.7d501e96.chunk.css",
+    "main.js": "/Landing-retos/static/js/main.77905bdc.chunk.js",
+    "main.js.map": "/Landing-retos/static/js/main.77905bdc.chunk.js.map",
     "runtime-main.js": "/Landing-retos/static/js/runtime-main.b2e97de5.js",
     "runtime-main.js.map": "/Landing-retos/static/js/runtime-main.b2e97de5.js.map",
-    "static/js/2.860fdaf4.chunk.js": "/Landing-retos/static/js/2.860fdaf4.chunk.js",
-    "static/js/2.860fdaf4.chunk.js.map": "/Landing-retos/static/js/2.860fdaf4.chunk.js.map",
+    "static/js/2.63645afb.chunk.js": "/Landing-retos/static/js/2.63645afb.chunk.js",
+    "static/js/2.63645afb.chunk.js.map": "/Landing-retos/static/js/2.63645afb.chunk.js.map",
     "index.html": "/Landing-retos/index.html",
-    "static/css/main.ee9e2d7c.chunk.css.map": "/Landing-retos/static/css/main.ee9e2d7c.chunk.css.map",
-    "static/js/2.860fdaf4.chunk.js.LICENSE.txt": "/Landing-retos/static/js/2.860fdaf4.chunk.js.LICENSE.txt",
+    "static/css/main.7d501e96.chunk.css.map": "/Landing-retos/static/css/main.7d501e96.chunk.css.map",
+    "static/js/2.63645afb.chunk.js.LICENSE.txt": "/Landing-retos/static/js/2.63645afb.chunk.js.LICENSE.txt",
     "static/media/logo.eb44789f.png": "/Landing-retos/static/media/logo.eb44789f.png"
   },
   "entrypoints": [
     "static/js/runtime-main.b2e97de5.js",
-    "static/js/2.860fdaf4.chunk.js",
-    "static/css/main.ee9e2d7c.chunk.css",
-    "static/js/main.7b59c986.chunk.js"
+    "static/js/2.63645afb.chunk.js",
+    "static/css/main.7d501e96.chunk.css",
+    "static/js/main.77905bdc.chunk.js"
   ]
 }
