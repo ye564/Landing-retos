@@ -29,7 +29,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #9fd5d1;
+    background-color: rgb(21, 255, 255);
+    box-shadow: 0 4px 25px -9px black;
     z-index: 98;
     overflow-x: hidden;
     transition: all 1s ease-in-out;

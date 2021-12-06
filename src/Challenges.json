@@ -1,179 +1,152 @@
 [
     {
-        "id":1,
-        "title":"Día 1 Expanding Cards",
-        "img":"https://i.ibb.co/9gHJDk0/Dia1.png",
-        "url":"https://ye564.github.io/Dia1-expanding-Cards/",
-        "description":""
-    },
-    
-    {
-        "id":2,
-        "title":"Día 2 Progress Steps",
-        "img":"https://i.ibb.co/MNC00Wv/Dia2.png",
-        "url":"https://ye564.github.io/Dia2-Progress-Steps/",
-        "description":""
+        "id": 1,
+        "title": "Expanding Cards",
+        "img": "https://i.ibb.co/9gHJDk0/Dia1.png",
+        "url": "https://ye564.github.io/Dia1-expanding-Cards/"
     },
     {
-        "id":3,
-        "title":"Día 3 Rotating Navigation",
-        "img":"https://i.ibb.co/cvcBSbR/Dia3.png",
-        "url":"https://ye564.github.io/Dia3-Rotating-Navigation/",
-        "description":""
+        "id": 2,
+        "title": "Progress Steps",
+        "img": "https://i.ibb.co/MNC00Wv/Dia2.png",
+        "url": "https://ye564.github.io/Dia2-Progress-Steps/"
     },
     {
-        "id":4,
-        "title":"Día 4 Hidden Search",
-        "img":"https://i.ibb.co/Xp0wGqh/Dia4.png",
-        "url":"https://ye564.github.io/Dia4-Hidden-Search/",
-        "description":""
+        "id": 3,
+        "title": "Rotating Navigation",
+        "img": "https://i.ibb.co/cvcBSbR/Dia3.png",
+        "url": "https://ye564.github.io/Dia3-Rotating-Navigation/"
     },
     {
-        "id":5,
-        "title":"Día 5 Blurry Loading",
-        "img":"https://i.ibb.co/6gnZvcr/Dia5.png",
-        "url":"https://ye564.github.io/Dia5-Blurry-Loading/",
-        "description":""
+        "id": 4,
+        "title": "Hidden Search",
+        "img": "https://i.ibb.co/Xp0wGqh/Dia4.png",
+        "url": "https://ye564.github.io/Dia4-Hidden-Search/"
     },
     {
-        "id":6,
-        "title":"Día 6 Drag N Drop",
-        "img":"https://i.ibb.co/Fs7gNWY/Dia6.png",
-        "url":"https://ye564.github.io/Dia6-Drag-N-Drop/",
-        "description":""
+        "id": 5,
+        "title": "Blurry Loading",
+        "img": "https://i.ibb.co/6gnZvcr/Dia5.png",
+        "url": "https://ye564.github.io/Dia5-Blurry-Loading/"
     },
     {
-        "id":7,
-        "title":"Día 7 AutoText",
-        "img":"https://i.ibb.co/rFvTt6t/Dia7.png",
-        "url":"https://ye564.github.io/Dia7-AutoText/",
-        "description":""
+        "id": 6,
+        "title": "Drag N Drop",
+        "img": "https://i.ibb.co/Fs7gNWY/Dia6.png",
+        "url": "https://ye564.github.io/Dia6-Drag-N-Drop/"
     },
     {
-        "id":8,
-        "title":"Día 8 Hoverboard",
-        "img":"https://i.ibb.co/LRTRRSq/Dia8.png",
-        "url":"https://ye564.github.io/Dia8-Hoverboard/",
-        "description":""
+        "id": 7,
+        "title": "AutoText",
+        "img": "https://i.ibb.co/rFvTt6t/Dia7.png",
+        "url": "https://ye564.github.io/Dia7-AutoText/"
     },
     {
-        "id":9,
-        "title":"Día 9 Scroll Animation",
-        "img":"https://i.ibb.co/zbHt3sY/Dia9.png",
-        "url":"https://ye564.github.io/Dia9-Scroll-Animation/",
-        "description":""
+        "id": 8,
+        "title": "Hoverboard",
+        "img": "https://i.ibb.co/LRTRRSq/Dia8.png",
+        "url": "https://ye564.github.io/Dia8-Hoverboard/"
     },
     {
-        "id":10,
-        "title":"Día 10 Form input wave",
-        "img":"https://i.ibb.co/t3Pg5Hq/Dia10.png",
-        "url":"https://ye564.github.io/Dia10-Form-input-wave/",
-        "description":""
+        "id": 9,
+        "title": "Scroll Animation",
+        "img": "https://i.ibb.co/zbHt3sY/Dia9.png",
+        "url": "https://ye564.github.io/Dia9-Scroll-Animation/"
     },
     {
-        "id":11,
-        "title":"Día 11 Dad Jokes",
-        "img":"https://i.ibb.co/2tWKwXt/Dia11.png",
-        "url":"https://ye564.github.io/Dia11-Dad-Jokes/",
-        "description":""
+        "id": 10,
+        "title": "Form input wave",
+        "img": "https://i.ibb.co/t3Pg5Hq/Dia10.png",
+        "url": "https://ye564.github.io/Dia10-Form-input-wave/"
     },
     {
-        "id":12,
-        "title":"Día 12 Sound Board",
-        "img":"https://i.ibb.co/8zSKkYD/Dia12.png",
-        "url":"https://ye564.github.io/Dia12-Sound-Board/",
-        "description":""
+        "id": 11,
+        "title": "Dad Jokes",
+        "img": "https://i.ibb.co/2tWKwXt/Dia11.png",
+        "url": "https://ye564.github.io/Dia11-Dad-Jokes/"
     },
     {
-        "id":13,
-        "title":"Día 13 Live User Filter",
-        "img":"https://i.ibb.co/D8NDXnV/Dia13.png",
-        "url":"https://ye564.github.io/Dia13-Live-User-Filter/",
-        "description":""
+        "id": 12,
+        "title": "Sound Board",
+        "img": "https://i.ibb.co/8zSKkYD/Dia12.png",
+        "url": "https://ye564.github.io/Dia12-Sound-Board/"
     },
     {
-        "id":14,
-        "title":"Día 14 Button Ripple Effect",
-        "img":"https://i.ibb.co/ChvqjcZ/Dia14.png",
-        "url":"https://ye564.github.io/Dia14-Button-Ripple-Effect/",
-        "description":""
+        "id": 13,
+        "title": " Live User Filter",
+        "img": "https://i.ibb.co/D8NDXnV/Dia13.png",
+        "url": "https://ye564.github.io/Dia13-Live-User-Filter/"
     },
     {
-        "id":15,
-        "title":"Día 15 Background Slider",
-        "img":"https://i.ibb.co/0DGsC8W/Dia15.png",
-        "url":"https://ye564.github.io/Dia15-Background-Slider/",
-        "description":""
+        "id": 14,
+        "title": "Button Ripple Effect",
+        "img": "https://i.ibb.co/ChvqjcZ/Dia14.png",
+        "url": "https://ye564.github.io/Dia14-Button-Ripple-Effect/"
     },
     {
-        "id":16,
-        "title":"Día 16 Kinetic loader",
-        "img":"https://i.ibb.co/TqhwQJJ/Dia16.png",
-        "url":"https://ye564.github.io/Dia16-Kinetic-loader/",
-        "description":""
+        "id": 15,
+        "title": "Background Slider",
+        "img": "https://i.ibb.co/0DGsC8W/Dia15.png",
+        "url": "https://ye564.github.io/Dia15-Background-Slider/"
     },
     {
-        "id":17,
-        "title":"Día 17 Netflix Navigation",
-        "img":"https://i.ibb.co/LkVGvGP/Dia17.png",
-        "url":"https://ye564.github.io/Dia17-Netflix-Navigation/",
-        "description":""
+        "id": 16,
+        "title": "Kinetic loader",
+        "img": "https://i.ibb.co/TqhwQJJ/Dia16.png",
+        "url": "https://ye564.github.io/Dia16-Kinetic-loader/"
     },
     {
-        "id":18,
-        "title":"Día 18 Testimonial Box Switcher",
-        "img":"https://i.ibb.co/4tt72jy/Dia18.png",
-        "url":"https://ye564.github.io/Dia18-Testimonial-Box-Switcher/",
-        "description":""
+        "id": 17,
+        "title": "Netflix Navigation",
+        "img": "https://i.ibb.co/LkVGvGP/Dia17.png",
+        "url": "https://ye564.github.io/Dia17-Netflix-Navigation/"
     },
     {
-        "id":19,
-        "title":"Día 19 Pokedex",
-        "img":"https://i.ibb.co/Hh6y5JQ/Dia19.png",
-        "url":"https://ye564.github.io/Dia19-Pokedex/",
-        "description":""
+        "id": 18,
+        "title": "Testimonial Box Switcher",
+        "img": "https://i.ibb.co/4tt72jy/Dia18.png",
+        "url": "https://ye564.github.io/Dia18-Testimonial-Box-Switcher/"
     },
     {
-        "id":20,
-        "title":"Día 20 Doble click Heart",
-        "img":"https://i.ibb.co/5hXQxcc/Dia20.png",
-        "url":"https://ye564.github.io/Dia20-Doble-click-Heart/",
-        "description":""
+        "id": 19,
+        "title": "Pokedex",
+        "img": "https://i.ibb.co/Hh6y5JQ/Dia19.png",
+        "url": "https://ye564.github.io/Dia19-Pokedex/"
     },
     {
-        "id":21,
-        "title":"Día 21 Event Keycodes",
-        "img":"https://i.ibb.co/48Xvv3Z/Dia21.png",
-        "url":"https://ye564.github.io/Dia21-Event-Keycodes/",
-        "description":""
+        "id": 20,
+        "title": "Doble click Heart",
+        "img": "https://i.ibb.co/5hXQxcc/Dia20.png",
+        "url": "https://ye564.github.io/Dia20-Doble-click-Heart/"
     },
     {
-        "id":22,
-        "title":"Día 22 Mobile Nav Navigation",
-        "img":"https://i.ibb.co/p1PFHwh/Dia22.png",
-        "url":"https://ye564.github.io/Dia22-Mobile-Nav-Navigation/",
-        "description":""
+        "id": 21,
+        "title": "Event Keycodes",
+        "img": "https://i.ibb.co/48Xvv3Z/Dia21.png",
+        "url": "https://ye564.github.io/Dia21-Event-Keycodes/"
     },
     {
-        "id":23,
-        "title":"Día 23 Drink Water",
-        "img":"https://i.ibb.co/6F1tK2P/Dia23.png",
-        "url":"https://ye564.github.io/Dia23-Drink-Water/",
-        "description":""
+        "id": 22,
+        "title": "Mobile Nav Navigation",
+        "img": "https://i.ibb.co/p1PFHwh/Dia22.png",
+        "url": "https://ye564.github.io/Dia22-Mobile-Nav-Navigation/"
     },
     {
-        "id":24,
-        "title":"Día 24 Feedback UI Desing",
-        "img":"https://i.ibb.co/BqcQpTr/Dia24.png",
-        "url":"https://ye564.github.io/Dia24-Feedback-UI-Desing/",
-        "description":""
+        "id": 23,
+        "title": "Drink Water",
+        "img": "https://i.ibb.co/6F1tK2P/Dia23.png",
+        "url": "https://ye564.github.io/Dia23-Drink-Water/"
     },
     {
-        "id":25,
-        "title":"Día 25 GitHub Profile",
-        "img":"https://i.ibb.co/WfnYp4v/Dia25.png",
-        "url":"https://ye564.github.io/Dia25-GitHub-Profile/",
-        "description":""
+        "id": 24,
+        "title": "Feedback UI Desing",
+        "img": "https://i.ibb.co/BqcQpTr/Dia24.png",
+        "url": "https://ye564.github.io/Dia24-Feedback-UI-Desing/"
+    },
+    {
+        "id": 25,
+        "title": " GitHub Profile",
+        "img": "https://i.ibb.co/WfnYp4v/Dia25.png",
+        "url": "https://ye564.github.io/Dia25-GitHub-Profile/"
     }
-
 ]

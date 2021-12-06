@@ -1,18 +1,19 @@
-import './App.css';
 import { Cards } from './componets/Cards/Cards';
 import Footer from './componets/Footer/Footer';
 import Header from './componets/Header/Header';
+import { Context } from './context/context';
 
 
 function App() {
-  
+
 
   return (
-    <>
-     <Header/>
-     <Cards/>
-     <Footer/>
-    </>
+    <Context>
+      <Header />
+      <Cards />
+      <Footer />
+    </Context>
+
   );
 }
 
